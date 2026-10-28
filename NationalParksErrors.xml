@@ -11,6 +11,7 @@
       <City>Grand Canyon</City>
       <State>AZ</State>
       <Zip>86023</Zip>
+    </Address>
   </NationalPark>
   <NationalPark Rating="4.8">
     <Name>Yosemite</Name>
@@ -122,6 +123,5 @@
       <City>Gatlinburg</City>
       <State>TN</State>
       <Zip>37738</Zip>
-    </Address>
   </NationalPark>
 </NationalPark>
