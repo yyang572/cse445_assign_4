@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalPark xmlns="https://yyang572.github.io/cse445_assign_4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://yyang572.github.io/cse445_assign_4 https://yyang572.github.io/cse445_assign_4/NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
